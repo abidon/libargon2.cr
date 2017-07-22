@@ -1,0 +1,10 @@
+name: argon2
+version: 0.1.0
+
+authors:
+  - Aurélien Bidon <abidon@protonmail.com>
+
+description: |
+  A Crystal binding to the Argon2 C library
+
+license: MIT
